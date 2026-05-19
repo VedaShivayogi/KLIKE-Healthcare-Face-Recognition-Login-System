@@ -62,7 +62,7 @@ python run.py
 
 | Feature                 | Screenshot                                        |
 | ----------------------- | ------------------------------------------------- |
-| **Home Screen**         | ![Home Screen](./output/home-screen.png)          |
+| **Home Screen**         | ![Home Screen](./output/login.png)          |
 | **Registration Screen** | ![Registration](./output/registration-screen.png) |
 | **Face Capture**        | ![Face Capture](./output/face-capture.png)        |
 | **Training Progress**   | ![Training](./output/training-screen.png)         |
